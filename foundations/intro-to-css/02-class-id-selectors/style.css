@@ -1,12 +1,9 @@
 .cat{
     background-color:#ffc0cb;
+    font-family: Verdana, "DejaVu Sans" sans-serif;
 }
 
-.cat.dog{
-    font-family: Verdana, DejaVu, sans-serif;
-}
-
-.cat.tom{
+.tom{
     font-size: 24px;
 }
 
